@@ -1,12 +1,12 @@
 <template>
     <div>
-       <h1>MyItems</h1>
+      <h1>Page Not Found</h1>
     </div>
 </template>
 
 <script>
     export default {
-        layout:"no-nav"
+        
     }
 </script>
 

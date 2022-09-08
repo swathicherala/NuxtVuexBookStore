@@ -1,6 +1,5 @@
 <template>
     <div>
-        <Nav/>
         <div class="container">
        <LargeCardDisplay
        v-for="cardInfo in largeCardsInfo.slice(0,1)"

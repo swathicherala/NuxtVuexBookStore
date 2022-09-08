@@ -8,19 +8,19 @@ export const largeCardSections = [
           id: 19,
           title: "Toronto's Portable 2L Fire Extinguisher",
           snippet: "This fire extinguisher saved homes from completely burning down. People that used it only had 98% of their homes burned down.",
-          image: "homebook1.jpeg"
+          image: "homebook19.jpeg"
         },
         {
           id: 20,
           title: "Empty Super Red Fire Extinguisher",
           snippet: "This is one of the most red fire extinguishers you will ever see. Super clean. It's pretty much useless otherwise.",
-          image: "homebook2.jpeg"
+          image: "homebook20.jpeg"
         },
         {
           id: 21,
           title: "Fire Extinguisher, Perfect for Pools",
           snippet: "If you ever find that your pool is on fire then this is the fire extinguisher for you. It has a 100% success rate.",
-          image: "homebook3.jpeg"
+          image: "homebook21.jpeg"
         }
       ]
     },
@@ -33,13 +33,13 @@ export const largeCardSections = [
           id: 22,
           title: "Vintage 1864 Fire Extinguisher",
           snippet: "This is hands down the worst fire extinguisher you can use in a crisis. The radiation will kill you if the fire doesn't",
-          image: "homebook4.jpeg"
+          image: "homebook22.jpeg"
         },
         {
           id: 23,
           title: "Pure Silver & Gold Fire Extinguisher",
           snippet: "This one is made out of 50k worth of pure silver and white gold. The metal choice was a poor for functionality, but was great for style!",
-          image: "homebook5.jpeg"
+          image: "homebook23.jpeg"
         },
         {
           id: 24,
@@ -127,35 +127,35 @@ export const largeCardSections = [
           },
           {
             id: 17,
-            image: "homebook16.jpeg"
-          },
-          {
-            id: 18,
             image: "homebook17.jpeg"
           },
           {
-            id: 19,
+            id: 18,
             image: "homebook18.jpeg"
           },
           {
-            id: 20,
+            id: 19,
             image: "homebook19.jpeg"
           },
           {
-            id: 21,
+            id: 20,
             image: "homebook20.jpeg"
           },
           {
-            id: 22,
+            id: 21,
             image: "homebook21.jpeg"
           },
           {
-            id: 23,
+            id: 22,
             image: "homebook22.jpeg"
           },
           {
-            id: 24,
+            id: 23,
             image: "homebook23.jpeg"
+          },
+          {
+            id: 24,
+            image: "homebook6.jpeg"
           }
       ]
   }
